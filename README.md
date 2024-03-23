@@ -1,4 +1,5 @@
 MedReminder: Manage Your Medication Easily
+
 What it Does
 
 MedReminder is a mobile application designed to empower you to manage your medication schedule effectively.  It sends timely reminders to take your prescribed medication, helping you stay on track and adherent to your treatment plan.
